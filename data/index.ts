@@ -7,8 +7,9 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Desenvolvedora Front-end em início de carreira",
-    description: "",
+    title:
+      "ReactJS, TailwindCSS, JavaScript, HTML, TypeScript, Git e Metodologias Ágeis como Scrum e Kanban",
+    description: "Tecnologias",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -27,13 +28,12 @@ export const gridItems = [
   },
   {
     id: 3,
-    title:
-      "ReactJS, TailwindCSS, JavaScript, HTML, TypeScript, Git e Metodologias Ágeis como Scrum e Kanban",
-    description: "Tecnologias",
+    title: "Desenvolvedora Front-End em início de carreira",
+    description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
-    img: "",
+    img: "/b1.svg",
     spareImg: "",
   },
   {
