@@ -27,9 +27,9 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "Tecnologias",
-    description:
+    title:
       "ReactJS, TailwindCSS, JavaScript, HTML, TypeScript, Git e Metodologias Ágeis como Scrum e Kanban",
+    description: "Tecnologias",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
